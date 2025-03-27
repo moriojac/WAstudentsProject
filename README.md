@@ -1,4 +1,4 @@
-<h1>Student Demographics in Washington: A Visual Analysis</h1>
+<h1>Student Demographics in Washington: A Visual Analysis - <a href="https://moriojac.shinyapps.io/wa_app/">Project Link</a> </h1>
 
 
 <h2>Description</h2>
