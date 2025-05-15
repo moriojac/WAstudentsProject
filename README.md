@@ -26,10 +26,9 @@ This project visualizes the student population distribution across counties in W
         <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
-          For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
-          <br><br> <a href="https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018">NBA Injuries 2010-2020</a>
-          <br><br> <a href="https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv">NBA Player Stats</a>
-          <br><br> (via <a href="https://prosportstransactions.com/"> prosportstransactions.com </a> and <a href="https://www.basketball-reference.com/"> basketball-reference.com</a>)
+          For this project, enrollment data was sourced from the official Washington State Student Report Card, spanning school years from 2014–2015 through 2024–2025.
+          <br><br> Data was provided by data.wa.gov - the official Washington state open data portal. 
+          <br><br> <a href="https://data.wa.gov/education/Report-Card-Enrollment-from-2014-15-to-Current-Yea/rxjk-6ieq/about_data">Washington State Student Enrollment Report Card</a>
         </h6>
       </div>
     </td>
