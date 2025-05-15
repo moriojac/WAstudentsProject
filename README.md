@@ -34,7 +34,7 @@ This project visualizes the student population distribution across counties in W
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="WAstudentProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <h6 style="text-align: center; min-height: 150px;">
           - Filtering Data: Only relevant years (2010-2017) were kept for both stats and injury datasets.
