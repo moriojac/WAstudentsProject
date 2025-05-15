@@ -57,7 +57,7 @@ This project visualizes the student population distribution across counties in W
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="WAstudentProject_P4" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <h6 style="text-align: center; min-height: 150px;">
           The goal of this data is to offer insights that assist professionals in injury prevention, allowing the reader to interpret and make decisions based on the findings.
