@@ -22,7 +22,7 @@ This project visualizes the student population distribution across counties in W
   <tr>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="WAstudentProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
