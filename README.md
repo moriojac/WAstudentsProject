@@ -26,7 +26,7 @@ This project visualizes the student population distribution across counties in W
         <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
-          For this project, enrollment data was sourced from the official Washington State Student Report Card, spanning school years from 2014–2015 through 2024–2025.
+          For this project, enrollment data was sourced from the official Washington State Student Report Card, spanning from the 2014–2015 through 2024–2025 school years.
           <br><br> Data was provided by data.wa.gov - the official Washington state open data portal. 
           <br><br> <a href="https://data.wa.gov/education/Report-Card-Enrollment-from-2014-15-to-Current-Yea/rxjk-6ieq/about_data">Washington State Student Enrollment Report Card</a>
         </h6>
