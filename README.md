@@ -49,10 +49,9 @@ This project visualizes the student population distribution across counties in W
         <img src="WAstudentProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
         <h6 style="text-align: center; min-height: 150px;">
-          Data is manipulated into several visualizations, categorized into three sections:
-         <br><br> - Injury Visualization: Providing a comprehensive view of injuries sustained.
-         <br><br> - Change Over Time: Revealing injury growth, pointing to the need for better injury prevention.
-         <br><br> - Contrast: Identifying injury risks based on physical attributes and performance metrics.
+          Data is manipulated into several visualizations, categorized into two sections:
+         <br><br> - Map Search: Providing a comprehensive view of the racial disparities for each county, filterable by each race–school year combination.
+         <br><br> - Contrast: Revealing changes in racial demographics over time, filterable by county.
         </h6>
       </div>
     </td>
