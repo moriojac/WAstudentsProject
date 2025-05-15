@@ -37,10 +37,10 @@ This project visualizes the student population distribution across counties in W
         <img src="WAstudentProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <h6 style="text-align: center; min-height: 150px;">
-          - Filtering Data: Only relevant years (2010-2017) were kept for both stats and injury datasets.
-         <br><br> - Removing Unnecessary Columns: Duplicate and irrelevant columns were dropped.
-         <br><br> - Standardizing Column Names: Column names were standardized to ensure consistency across datasets.
-         <br><br> - Merging Datasets: Data was merged on key attributes—Year, Player, and Team.
+          - Removing Unnecessary Columns: Duplicate and irrelevant columns were dropped.
+         <br><br> - Grouping Dataset: Dataset was grouped by county and school year, preparing the data for summary operations within each county–school year combination.
+         <br><br> - Summarizing Dataset: Calculated and assigned the population percentage of each ethnic group for each county–school year combination.
+         <br><br> - Merging Datasets: Merged the dataset to include the geographic coordinates of each county to enable map visualization
         </h6>
       </div>
     </td>
