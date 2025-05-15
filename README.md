@@ -39,7 +39,7 @@ This project visualizes the student population distribution across counties in W
         <h6 style="text-align: center; min-height: 150px;">
           - Grouping Dataset: Dataset was grouped by county and school year, preparing the data for summary operations within each county–school year combination.
          <br><br> - Summarizing Dataset: Calculated and assigned the population percentage of each ethnic group for each county–school year combination.
-         <br><br> - Merging Datasets: Merged the dataset to include the geographic coordinates of each county to enable map visualization
+         <br><br> - Merging Datasets: Merged the dataset to include the geographic coordinates of each county to enable map visualization.
         </h6>
       </div>
     </td>
