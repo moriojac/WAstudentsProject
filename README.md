@@ -59,8 +59,10 @@ This project visualizes the student population distribution across counties in W
         <img src="WAstudentProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <h6 style="text-align: center; min-height: 150px;">
-          The goal of this data is to offer insights that assist professionals in injury prevention, allowing the reader to interpret and make decisions based on the findings.
-         <br><br> Insights from the data can help teams develop targeted injury prevention strategies, such as load management for high-minute players and conditioning/workout programs based on position-             specific vulnerabilities.
+          The goal of this data is to offer insights that assist educators, policymakers, and researchers in understanding student population trends across Washington State, enabling 
+          data-driven decision-making.
+         <br><br> Insights from the data can support the development of targeted educational strategies, such as resource allocation for underrepresented groups, district-level 
+          planning, and policies that address racial disparities in enrollment over time.
         </h6>
       </div>
     </td>
