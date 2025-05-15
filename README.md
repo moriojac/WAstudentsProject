@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Shiny interactive application visualizes NBA injury data from 2010-2017, allowing users to explore injuries sustained by players and identify potential patterns. Interactive dashboards provide a comprehensive overview of injury trends in professional basketball, ultimately providing insights that can aid in injury prevention.
+This project visualizes student population distribution across counties, categorized by race and year. Using an interactive map, it highlights demographic trends, aiding in educational insights and policy decisions.
 <br />
 
 
