@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project visualizes student population distribution across counties, categorized by race and year. Using an interactive map, it highlights demographic trends, aiding in educational insights and policy decisions.
+This project visualizes student population distribution across counties in Washington State, categorized by race and year. Using interactive maps and graphs, it highlights demographic trends overtime, providing a clear view of shifts in enrollment figures among different racial groups across different counties in Washington State, ultimately aiding in educational insights and policy decisions.  
 <br />
 
 
