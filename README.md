@@ -11,6 +11,7 @@ This project visualizes the student population distribution across counties in W
 - <b>R</b> 
 - <b>ggplot</b>
 - <b>Shiny</b>
+- <b>shinyapps.io</b>
 
 <br><br>
 
